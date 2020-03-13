@@ -1,13 +1,13 @@
 {
-    "type": "service_account",
-    "project_id": "riachuelo-75dcf",
-    "private_key_id": "01a726045aaa9af6b5854efa2087f3c40908f335",
-    "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQC48My56EhAx741\nRwAICQkJ3ImzQddZjLzQvQ3HHDtYTAWdrmiUqp+F6TiBZrPCNCmx36M4EHiK5F1K\nxazGfemFfyrl6BTiXi+s+lCYWGFJfHkuOQgs2qeU7k5V1JSfxazlSzRuJqaqr1va\nf3SLpErAsxGbkpgtYyhry3cNBDJk+c8qSdyyBn/Tjb/jkqgbmIDDCf30LmGy5Y2s\nVhtkZOCZiA+o7G2PMJCZJ8sPU7tCZR1gK8fizHrfZt9I3o8xzOCfxeR1ftjQmHvi\nFcGdNiscRHKuVwArchDCQx7XeqcgD/zH+vQGbSTYMblTqTjBjLXxmkK/IWA3IiBC\nXBez88hPAgMBAAECggEAF1tqL8yTW4MelbH64gjqGFG/HmGhZhDtQ9usosoBALzR\nNMHzOVt3PD1hQo6LA2r9HRbmkU0bPEdtNOVUVdlPJeoSq+iswo4srUcL6MG4v8Q1\ntc3EJ44R/jA+un5XqvoXRPpDi+nbwNDW4/iW6o/8VOwIvEI+b/UHBN40kfNGvhPL\nGtxxLs9N03t9q36hJ24SC2AhSwuW0BVHDF+hGtDQNpESxE5JU4/GN5UeA05j8DZz\nz1yVck7o6MXVs10zIZ5DwOTx9Vq4Cgse8YVij9eZYfhltrNJLfDiJ0Rh4a9jnF5c\nulvUnGgP+dVKQpLgSYh9DhaCzbFf2vBxSn2nIAG30QKBgQD/FxiEmaH7IoDlFjGX\nqfX9+Eo9xvFkxAlYW/g7v2Okl3VVSpIYleICB22i4SOWz8cHI99sSjsCpTB4OXRj\n17AcdXrbzVzsJufCbUpfGLxrLTU5v6UCA8AI6DYpzeJi5XXS3H77ZH+V4W/joG1s\nr6baMKGurkIPUiBUbdsT+nv8JwKBgQC5mafNF5q3o25+O2J3h1cPaahBPQQFYwbq\n0Qqo2vqFm4jODwSjidXY+TyJGVw9W6AI4UMF7P5dPHKDmgLR6SWpj7AdVsyMS5F0\nnoH05dXZfpuuXfpmx/fNwyWCoPQODHTz/PkMouWZDM0m5KdvRR+VtmgcrGDUfPPP\nJD2ps1FjmQKBgCdBAZfeIGwJ6jXWjXkeQWl8nMgW5iywchOzy2Y+VHIOkJK4b/Ty\nk53mULvA034wqRrzLT13ys7kZqoJhVyb41DtzyMl3gfFEOL9eHVb1BrWERu63wSJ\nWTLFsRgLw6ueTdxN7Ah5dZy13Ub0+AHCofVviGHeFPJQnAMCCLVxVUT/AoGBAK/F\nN0diXWIg4xmlP+GXSPoNxAzUriQz3m8vvfqgN7Wk0PDlBC2k8eNkVtI4NETfqzX9\nr63C/jpqbsD3cEg/ly14KQAAHgOX5Y8eNlEqAVbTMrj1w5jnNGWntLR7neZYIcKY\nB3zSIMLLftagoXkda4Yrk3nkPme+VmAMIGHAswmxAoGAIqGawiq4OXXOwp8vQUEV\n4Muaiam1C3QAMl2Uz1STPG01eWf+0P88i+RnAXnjejc9i1UuvuvtBDRcDh7ClORZ\nv6uQedsd8DvColwTkqxpuTD37dZt4LKrp2lXlMtvTBkKW/zs+kYDMI49HIafLIVC\naJ6O7HXK2WrVNmQhOkMHRe0=\n-----END PRIVATE KEY-----\n",
-    "client_email": "kthanasio-poc-pub-sub@riachuelo-75dcf.iam.gserviceaccount.com",
-    "client_id": "112227248215719824027",
-    "auth_uri": "https://accounts.google.com/o/oauth2/auth",
-    "token_uri": "https://oauth2.googleapis.com/token",
-    "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
-    "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/kthanasio-poc-pub-sub%40riachuelo-75dcf.iam.gserviceaccount.com"
+    "type": "",
+    "project_id": "",
+    "private_key_id": "",
+    "private_key": "",
+    "client_email": "",
+    "client_id": "",
+    "auth_uri": "",
+    "token_uri": "",
+    "auth_provider_x509_cert_url": "",
+    "client_x509_cert_url": ""
   }
   
