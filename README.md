@@ -5,7 +5,7 @@
 # Google Pub/Sub
 - Export your credential json file from the Google Console Account
 - Save google credential json file on the ``auth`` directory
-- Set the json filename on the ``.env`` configuration file
+- Set the json filename on the ``.env`` configuration file [GOOGLE_APPLICATION_CREDENTIALS]
 - https://cloud.google.com/pubsub/docs/authentication#service-accounts
 
 # Testing
