@@ -1,6 +1,6 @@
 
 require('dotenv').config();
-process.env['GOOGLE_APPLICATION_CREDENTIALS']=process.env.GOOGLE_APPLICATION_CREDENTIALS || 'google_auth.json';
+process.env['GOOGLE_APPLICATION_CREDENTIALS']=process.env.GOOGLE_APPLICATION_CREDENTIALS;
 
 const {PubSub} = require('@google-cloud/pubsub');
 

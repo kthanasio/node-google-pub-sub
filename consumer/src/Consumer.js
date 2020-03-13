@@ -1,6 +1,6 @@
 require('dotenv').config();
-var credential = process.env.GOOGLE_APPLICATION_CREDENTIALS || 'google_auth.json';
-process.env['GOOGLE_APPLICATION_CREDENTIALS']=credential;
+require('dotenv').config();
+process.env['GOOGLE_APPLICATION_CREDENTIALS']=process.env.GOOGLE_APPLICATION_CREDENTIALS;
 
 const subscriptionName = process.env.GOOGLE_TOPIC_SUBSCRIPTION;
 const timeout = 60;
