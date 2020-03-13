@@ -1,3 +1,4 @@
 node_modules
 .env
-!auth/google_auth.json
+auth/*
+!auth
